@@ -1,0 +1,4 @@
+Uncaught java.lang.Error exception in thread "main" in a method jasmin.miclase.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at jasmin.miclase.main(miclase.java:8) [file:/home/alumno/workspace/jasmin/bin/jasmin/miclase.class]
